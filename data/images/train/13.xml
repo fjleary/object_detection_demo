@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>13</filename>
+  <path>C:\Users\fjlea\DroneID\object_detection_demo\data\images\train\13.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>drone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>555</ymin>
+      <xmax>296</xmax>
+      <ymax>590</ymax>
+    </bndbox>
+  </object>
+</annotation>
